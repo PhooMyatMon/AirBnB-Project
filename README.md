@@ -1,6 +1,5 @@
 # AirBnB-Project
 
-NYC Airbnb Data Analysis
 This project provides an Exploratory Data Analysis (EDA) of Airbnb listings in New York City. The goal is to uncover trends regarding pricing, neighborhood popularity, and room types to provide actionable insights for hosts and travelers.
 
 🛠 Project Overview
@@ -44,8 +43,5 @@ Matplotlib & Seaborn (Data Visualization)
 Jupyter Notebook
 
 🚀 How to Run
-Clone this repository: git clone [your-repo-link]
-
-Install the necessary libraries: pip install pandas numpy matplotlib seaborn
 
 Open the Jupyter Notebook: jupyter notebook AirBnB_project.ipynb
